@@ -1,0 +1,556 @@
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\HotelManagerSystem.exe.config
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\HotelManagerSystem.exe
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\HotelManagerSystem.pdb
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Guna.UI.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.Form1.resources
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.Properties.Resources.resources
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.GenerateResource.Cache
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.exe
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.pdb
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.Licensing.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\MetroFramework.Design.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\MetroFramework.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\MetroFramework.Fonts.dll
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.exe.licenses
+c:\users\ho tan hoang\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Animator.dll
+C:\Users\HO TAN HOANG\documents\visual studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fAdd_Staff.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.csprojAssemblyReference.cache
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.CoreCompileInputs.cache
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.CopyComplete
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fAddService.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2017\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fAddServiceType.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\HotelManagerSystem.exe.config
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\HotelManagerSystem.exe
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\HotelManagerSystem.pdb
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Animator.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.Licensing.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Guna.UI.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\MetroFramework.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fAddService.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fAddServiceType.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fAdd_Staff.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.Form1.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.Properties.Resources.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.GenerateResource.cache
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.exe.licenses
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.CoreCompileInputs.cache
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.CopyComplete
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.exe
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.pdb
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fHome.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucHome.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.fService.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucManageBill.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucManageStaff.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucManageRoom.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucBookRoom.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucServiceAndPay.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucManageCustomer.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucRecieveRoom.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucStatistic.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fAccess.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fDetailBill.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucPayment.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fAddRoom.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fRoomType.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fUpdatePassword.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fLogin.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucStaff.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucListRoom.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucBookRoom_.resources
+C:\Users\HO TAN HOANG\Documents\Visual Studio 2019\Projects\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fBookRoomDetail.resources
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.csprojAssemblyReference.cache
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fAddObject.resources
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fHome.resources
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.fLogin.resources
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.Properties.Resources.resources
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucBookRoom.resources
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucHome.resources
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucManageBill.resources
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucManageRoom.resources
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucServiceAndPay.resources
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.GenerateResource.cache
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.exe.licenses
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.CoreCompileInputs.cache
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.exe
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.pdb
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\HotelManagerSystem.exe.config
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\HotelManagerSystem.exe
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\HotelManagerSystem.pdb
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Animator.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.Licensing.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\MetroFramework.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\NAudio.Asio.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\NAudio.Core.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\NAudio.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\NAudio.Midi.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\NAudio.Wasapi.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\NAudio.WinForms.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\NAudio.WinMM.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\RestSharp.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\NAudio.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\RestSharp.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HO TAN HOANG\Desktop\Nhóm 2_QLKS\HotelManagerSystem\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.CopyComplete
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\HotelManagerSystem.exe.config
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\HotelManagerSystem.exe
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\HotelManagerSystem.pdb
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Animator.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.Licensing.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MetroFramework.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.Asio.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.Core.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.Midi.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.Wasapi.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.WinForms.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.WinMM.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\RestSharp.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\RestSharp.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.csprojAssemblyReference.cache
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.fAddObject.resources
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.fHome.resources
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.fLogin.resources
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.Properties.Resources.resources
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucBookRoom.resources
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucHome.resources
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucManageBill.resources
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucManageRoom.resources
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucServiceAndPay.resources
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.GenerateResource.cache
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.exe.licenses
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.CoreCompileInputs.cache
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.CopyComplete
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.exe
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.pdb
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\snappy32.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\snappy64.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\libzstd.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\mongocrypt.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\DnsClient.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Bson.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Driver.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\SharpCompress.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Buffers.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\DnsClient.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Bson.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Driver.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Buffers.xml
+C:\Users\HO TAN HOANG\Desktop\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\libzstd.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\snappy32.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\snappy64.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\libsnappy64.so
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\libzstd.so
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\libsnappy64.dylib
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\libzstd.dylib
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\mongocrypt.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\HotelManagerSystem.exe.config
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\HotelManagerSystem.exe
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\HotelManagerSystem.pdb
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Animator.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.Licensing.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\DnsClient.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MetroFramework.Design.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MetroFramework.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Microsoft.Win32.Registry.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Bson.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Driver.Core.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Driver.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.Asio.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.Core.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.Midi.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.Wasapi.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.WinForms.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.WinMM.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Newtonsoft.Json.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\RestSharp.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\SharpCompress.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Buffers.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Memory.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Security.AccessControl.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\DnsClient.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Microsoft.Win32.Registry.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Bson.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Driver.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\MongoDB.Driver.Core.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\NAudio.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\Newtonsoft.Json.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\RestSharp.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Buffers.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Memory.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Security.AccessControl.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.fAddObject.resources
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.fHome.resources
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.fLogin.resources
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.Properties.Resources.resources
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucBookRoom.resources
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucHome.resources
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucManageBill.resources
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucManageRoom.resources
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.User_Control.ucServiceAndPay.resources
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.GenerateResource.cache
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.exe.licenses
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.CoreCompileInputs.cache
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.CopyComplete
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.exe
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.pdb
+C:\DoAnToNghiep\Speaker_New\NCKH\HotelManagerSystem\obj\Debug\HotelManagerSystem.csproj.AssemblyReference.cache
